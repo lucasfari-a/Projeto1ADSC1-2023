@@ -1,2 +1,2 @@
-# Projeto1ADSC1-2023
-Projeto do grupo ADSC (1º Semestre - 2023)
+# PI - 1ADSC - 2023
+Repositório dedicado para enviar atividades da aula de Projeto e Pesquisa.
