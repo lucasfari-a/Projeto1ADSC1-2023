@@ -1,3 +1,7 @@
+* {
+  font-family: Arial;;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -84,4 +88,25 @@ body {
 .box img {
   width: 170px;
 }
+
+.box h4 {
+  color: #ce477f;
+  font-weight: 800;
+}
+
+/* Começo do Footer*/
+  .footer {
+    width: 100%;
+    height: 100px;
+    background-color: #32b9cd;
+    color: #ffffff;
+  }
+
+  .footer .container {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+
 /**/
+
